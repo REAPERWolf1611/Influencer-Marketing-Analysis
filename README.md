@@ -15,12 +15,14 @@ The dashboard is divided into two pages:
   - Key KPIs: Total Revenue, Total Spend, ROAS, ROI, and Orders
   - Campaign- and product-level insights
   - Revenue and order comparisons across platforms, sources, and time
+  ![Influencer1](in1.png)
 
 - **Page 2: Influencer & Engagement Insights**
   - Top and bottom influencers by revenue
   - Monthly revenue trends
   - Engagement metrics (reach, likes, comments)
   - Payout structure and platform breakdown
+  ![Influencer2](in2.png)
 
 ---
 
